@@ -3,6 +3,11 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "github-profile-views-counter",
+    "non-responsive-website-header",
+    "printf",
+    "alx-low_level_programming",
+    "alx-system_engineering-devops",
+    "zero_day"
   ]
 }
